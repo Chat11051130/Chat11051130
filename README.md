@@ -84,12 +84,24 @@ Planned project directions:
 - TypeScript-heavy component system
 - Full-stack Next.js application
 
-## GitHub Stats
+## Current Progress
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Chat11051130&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chat11051130&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
+| Area | Status | Focus |
+| --- | --- | --- |
+| JavaScript | In progress | Language fundamentals, scope, closure, prototype, `this` |
+| TypeScript | Next stage | Type system, type narrowing, generics, practical modeling |
+| React | Next stage | Components, state, effects, application structure |
+| Projects | Preparing | Build portfolio projects with real product logic |
+| Engineering | Continuous | Git workflow, code quality, documentation, tooling |
+
+## Project Pipeline
+
+| Project Direction | Purpose | Key Skills |
+| --- | --- | --- |
+| Front-end learning dashboard | Track learning progress and knowledge structure | React, TypeScript, data modeling |
+| AI-assisted developer tool | Build a practical tool around real development workflow | UI design, API integration, state management |
+| Component system | Practice reusable UI architecture | TypeScript, React patterns, CSS architecture |
+| Full-stack Next.js app | Connect front-end skills with product-level features | Next.js, routing, server logic, deployment |
 
 ---
 
