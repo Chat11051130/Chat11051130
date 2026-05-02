@@ -28,31 +28,101 @@ My current goal is to build a serious engineering foundation, not just memorize 
 - TypeScript type system fundamentals
 - React component architecture
 - Front-end project structure and tooling
+- Node.js fundamentals for front-end engineering
 - Git and GitHub workflow
 
 ## Tech Stack
 
-### Languages
+### Core Front-end
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=ffffff)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <br />JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <br />TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+        <br />HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+        <br />CSS3
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" />
+        <br />React
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/nextdotjs/white" width="48" height="48" alt="Next.js" />
+        <br />Next.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" />
+        <br />Tailwind CSS
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Front-end
+### Runtime and Tooling
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=ffffff)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+        <br />Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite" />
+        <br />Vite
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm" />
+        <br />npm
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+        <br />Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/github/white" width="48" height="48" alt="GitHub" />
+        <br />GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="48" height="48" alt="ESLint" />
+        <br />ESLint
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/prettier/F7B93E" width="48" height="48" alt="Prettier" />
+        <br />Prettier
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Tooling
+### Programming Background
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=ffffff)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=ffffff)
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=ffffff)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=ffffff)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=000000)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+        <br />C++
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <br />Python
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Learning Roadmap
 
@@ -91,6 +161,7 @@ Planned project directions:
 | JavaScript | In progress | Language fundamentals, scope, closure, prototype, `this` |
 | TypeScript | Next stage | Type system, type narrowing, generics, practical modeling |
 | React | Next stage | Components, state, effects, application structure |
+| Node.js | Next stage | Runtime fundamentals for front-end engineering |
 | Projects | Preparing | Build portfolio projects with real product logic |
 | Engineering | Continuous | Git workflow, code quality, documentation, tooling |
 
