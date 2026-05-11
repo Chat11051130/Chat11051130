@@ -1,35 +1,35 @@
 <h1 align="center">Hi, I'm Dash</h1>
 
 <p align="center">
-  Front-end learner focused on JavaScript, TypeScript, React, and real-world engineering fundamentals.
-</p>
-
-<p align="center">
-  <a href="https://github.com/Chat11051130">
-    <img src="https://komarev.com/ghpvc/?username=Chat11051130&label=Profile%20Views" alt="Profile views" />
-  </a>
-  <a href="https://github.com/Chat11051130?tab=followers">
-    <img src="https://img.shields.io/github/followers/Chat11051130?label=Followers&style=flat" alt="GitHub followers" />
-  </a>
+  Front-end developer in training, focused on JavaScript fundamentals, TypeScript, React, and modern front-end engineering.
 </p>
 
 ---
 
-## About Me
+## Professional Direction
 
-I am learning modern front-end development from the fundamentals.
+I am building toward a front-end engineering role with a strong foundation in language mechanisms, type systems, UI architecture, and practical project development.
 
-My current goal is to build a serious engineering foundation, not just memorize framework APIs. I care about how JavaScript works at runtime, how TypeScript models programs at compile time, and how front-end applications are structured in real projects.
+My current focus is not only to write working code, but to understand how JavaScript runtime behavior, TypeScript static analysis, browser APIs, and framework architecture work together in real applications.
 
-## Current Focus
+## Core Strengths I Am Developing
 
-- JavaScript language mechanisms
-- Scope, closure, prototype, and `this`
-- TypeScript type system fundamentals
-- React component architecture
-- Front-end project structure and tooling
-- Node.js fundamentals for front-end engineering
-- Git and GitHub workflow
+- JavaScript runtime fundamentals: scope, closure, prototype, `this`, modules, and async behavior
+- TypeScript type modeling: basic types, narrowing, generics, interfaces, and practical constraints
+- React application development: components, state, effects, hooks, routing, and project structure
+- Front-end engineering workflow: Git, GitHub, npm, Vite, ESLint, Prettier, and maintainable documentation
+- Product-oriented thinking: building features with clear user value instead of isolated syntax demos
+
+## Current Progress
+
+| Area | Status | Current Focus |
+| --- | --- | --- |
+| JavaScript | In progress | Functions, objects, arrays, prototype, `this`, modules, async fundamentals |
+| Git and GitHub | In progress | Local repository workflow, commits, branches, push, project organization |
+| TypeScript | Next stage | Type system fundamentals, type narrowing, generics, practical type modeling |
+| React | Next stage | Component design, state management, effects, hooks, and application structure |
+| Node.js | Next stage | Runtime fundamentals for tooling, package management, and Next.js learning |
+| Portfolio Projects | Preparing | Building complete front-end projects with real product logic |
 
 ## Tech Stack
 
@@ -128,51 +128,32 @@ My current goal is to build a serious engineering foundation, not just memorize 
 
 ```text
 JavaScript fundamentals
+  -> Git and GitHub workflow
   -> TypeScript type system
   -> React application architecture
-  -> Node.js fundamentals
+  -> Node.js tooling fundamentals
   -> Next.js full-stack front-end projects
   -> Production-level engineering practices
 ```
 
-## What I Am Building Toward
+## Project Direction
 
-- Clean and maintainable front-end applications
-- Portfolio projects with real product logic
+I am preparing portfolio projects that show practical front-end ability rather than isolated syntax practice.
+
+| Project Direction | Purpose | Skills Demonstrated |
+| --- | --- | --- |
+| Front-end learning dashboard | Track learning progress and knowledge structure | React, TypeScript, data modeling, UI state |
+| AI-assisted developer tool | Build around a real development workflow | API integration, interface design, state management |
+| Component system | Practice reusable UI architecture | TypeScript, React patterns, styling architecture |
+| Full-stack Next.js app | Build product-level features | Next.js, routing, server logic, deployment |
+
+## What I Want My GitHub To Show
+
+- Clear learning progress with real code history
 - Strong JavaScript and TypeScript fundamentals
-- Practical understanding of browser, runtime, and framework behavior
-- AI-assisted development workflow with independent technical judgment
-
-## Featured Projects
-
-Portfolio-ready projects will be added here as they mature.
-
-Planned project directions:
-
-- Front-end learning dashboard
-- AI-assisted developer tool
-- TypeScript-heavy component system
-- Full-stack Next.js application
-
-## Current Progress
-
-| Area | Status | Focus |
-| --- | --- | --- |
-| JavaScript | In progress | Language fundamentals, scope, closure, prototype, `this` |
-| TypeScript | Next stage | Type system, type narrowing, generics, practical modeling |
-| React | Next stage | Components, state, effects, application structure |
-| Node.js | Next stage | Runtime fundamentals for front-end engineering |
-| Projects | Preparing | Build portfolio projects with real product logic |
-| Engineering | Continuous | Git workflow, code quality, documentation, tooling |
-
-## Project Pipeline
-
-| Project Direction | Purpose | Key Skills |
-| --- | --- | --- |
-| Front-end learning dashboard | Track learning progress and knowledge structure | React, TypeScript, data modeling |
-| AI-assisted developer tool | Build a practical tool around real development workflow | UI design, API integration, state management |
-| Component system | Practice reusable UI architecture | TypeScript, React patterns, CSS architecture |
-| Full-stack Next.js app | Connect front-end skills with product-level features | Next.js, routing, server logic, deployment |
+- Clean project organization and readable documentation
+- Front-end projects that solve concrete problems
+- Growth toward independent engineering judgment
 
 ---
 
