@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dash</h1>
+<h1 align="center">Hi, I'm RenderPath</h1>
 
 <p align="center">
   Front-end developer in training, focused on JavaScript fundamentals, TypeScript, React, and modern front-end engineering.
